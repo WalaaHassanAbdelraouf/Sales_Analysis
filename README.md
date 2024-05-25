@@ -23,7 +23,7 @@ This repository contains a Sales Analysis Dashboard designed to provide insights
 
 7. **Sales by City**: Heatmap showing sales distribution across various cities.
 
-8.**Products**: Pie chart displaying the proportion of different products.
+8. **Products**: Pie chart displaying the proportion of different products.
 
 9. **Top 5 Products**: Bar chart highlighting the top five products by sales.
 
